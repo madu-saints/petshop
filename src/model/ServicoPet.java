@@ -1,4 +1,6 @@
 package model;
 
-public class ServicoPet {
+public interface ServicoPet {
+    double calcularPreco();
+    String getDescricao();
 }
