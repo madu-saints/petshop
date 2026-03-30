@@ -1,4 +1,5 @@
 package enums;
 
-public class TamanhoPelo {
+public enum TamanhoPelo {
+    CURTO, MEDIO, LONGO
 }
